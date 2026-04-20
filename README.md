@@ -39,3 +39,5 @@ To analyze sales data and identify patterns in product categories, regions, and 
 
 ## Conclusion
 The analysis highlights key sales patterns across categories, regions, and time. These insights can help businesses focus on high-performing areas and plan strategies for growth.
+## Author
+[Anshita Pandey]
